@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   online_shop:
-    image: jonaki1/online-app
+    image: jonaki1/online-appp
     container_name: online_shop
     ports:
       - "5173:5173"
